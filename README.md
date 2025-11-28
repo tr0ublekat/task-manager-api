@@ -1,6 +1,5 @@
-# Task Manager API (Test Case)
+# Task Manager API
 
-Тестовое задание для компании **skycapital.group**.  
 Приложение реализовано на *FastAPI* с использованием *SQLAlchemy* и *SQLite*.  
 
 Реализованы CRUD-операции для задач, покрытые тестами (pytest + pytest-asyncio + pytest-cov).
